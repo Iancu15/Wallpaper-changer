@@ -8,8 +8,10 @@ Therefore make sure that you have said folders and that they contain only files 
 image extensions such as .jpg.
 
 It cycles in the following manner:
-  *between the hours 17:00 and 4:59 it uses the wallpapers from \Night.
-  *between the hours 5:00 and 16:59 it uses the wallpapers from \Night.
+
+    *between the hours 17:00 and 4:59 it uses the wallpapers from \Night.
+ 
+    *between the hours 5:00 and 16:59 it uses the wallpapers from \Night.
 
 ## Resizing images
 The wallpaper changer comes with a resize.py that resizes the images you put in \Day and
