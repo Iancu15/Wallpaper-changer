@@ -1,5 +1,5 @@
 ### Description
-Cycles through a list of wallpapers stored in a folder on Windows 10.
+Cycles through a list of wallpapers stored in a folder on Windows 10/11.
 
 ### Changing wallpapers
 It uses wallpapers from folders \Day and \Night and sets them as wallpapers on your Desktop.
